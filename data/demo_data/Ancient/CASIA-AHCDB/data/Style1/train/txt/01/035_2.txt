@@ -1,0 +1,3 @@
+text char
+text line
+CASIA-AHCDB Style1 _background_

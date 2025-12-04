@@ -1,0 +1,6 @@
+text
+title
+list
+table
+figure
+PubLayNet _background_

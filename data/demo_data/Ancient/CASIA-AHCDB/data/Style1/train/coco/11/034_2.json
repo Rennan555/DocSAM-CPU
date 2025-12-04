@@ -1,0 +1,108 @@
+{
+    "images": [
+        {
+            "id": 3163,
+            "width": 295,
+            "height": 799,
+            "file_name": "./11/034_2.jpg"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 490823,
+            "image_id": 3163,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 13407.0,
+            "bbox": [
+                82,
+                171,
+                123,
+                109
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 490824,
+            "image_id": 3163,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 11009.0,
+            "bbox": [
+                92,
+                292,
+                101,
+                109
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 490825,
+            "image_id": 3163,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 13716.0,
+            "bbox": [
+                78,
+                416,
+                127,
+                108
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 490826,
+            "image_id": 3163,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 15318.0,
+            "bbox": [
+                78,
+                534,
+                138,
+                111
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 490827,
+            "image_id": 3163,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 2142.0,
+            "bbox": [
+                84,
+                692,
+                119,
+                18
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 490828,
+            "image_id": 3163,
+            "category_id": 2,
+            "segmentation": [],
+            "area": 74382.0,
+            "bbox": [
+                78,
+                171,
+                138,
+                539
+            ],
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "text char",
+            "supercategory": ""
+        },
+        {
+            "id": 2,
+            "name": "text line",
+            "supercategory": ""
+        }
+    ]
+}

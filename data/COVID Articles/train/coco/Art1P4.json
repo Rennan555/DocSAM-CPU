@@ -1,0 +1,61 @@
+{
+    "info": {
+        "year": 2025,
+        "version": "1.0",
+        "description": "",
+        "contributor": "Label Studio",
+        "url": "",
+        "date_created": "2025-11-27 14:29:18.442524"
+    },
+    "licenses": [],
+    "images": [
+        {
+            "width": 742,
+            "height": 978,
+            "id": 3,
+            "file_name": "a4.png"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 32,
+            "image_id": 3,
+            "category_id": 0,
+            "segmentation": [],
+            "bbox": [
+                100.9954533191928,
+                69.95598532522583,
+                280.8166263021458,
+                533.3052596001278
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 149760.98379009793
+        },
+        {
+            "id": 33,
+            "image_id": 3,
+            "category_id": 0,
+            "segmentation": [],
+            "bbox": [
+                385.5070352305774,
+                69.95598532522583,
+                278.3533225626532,
+                532.0736077303814
+            ],
+            "ignore": 0,
+            "iscrowd": 0,
+            "area": 148104.45655964946
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "text"
+        },
+        {
+            "id": 1,
+            "name": "title"
+        }
+    ]
+}

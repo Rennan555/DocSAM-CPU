@@ -1,0 +1,94 @@
+{
+    "images": [
+        {
+            "id": 5699,
+            "width": 61,
+            "height": 1028,
+            "file_name": "./20/121_1.jpg"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1002681,
+            "image_id": 5699,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 2058.0,
+            "bbox": [
+                6,
+                12,
+                42,
+                49
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 1002682,
+            "image_id": 5699,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 2346.0,
+            "bbox": [
+                5,
+                65,
+                46,
+                51
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 1002683,
+            "image_id": 5699,
+            "category_id": 2,
+            "segmentation": [],
+            "area": 4784.0,
+            "bbox": [
+                5,
+                12,
+                46,
+                104
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 1002684,
+            "image_id": 5699,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 1178.0,
+            "bbox": [
+                12,
+                957,
+                38,
+                31
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 1002685,
+            "image_id": 5699,
+            "category_id": 2,
+            "segmentation": [],
+            "area": 1178.0,
+            "bbox": [
+                12,
+                957,
+                38,
+                31
+            ],
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "text char",
+            "supercategory": ""
+        },
+        {
+            "id": 2,
+            "name": "text line",
+            "supercategory": ""
+        }
+    ]
+}
